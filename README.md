@@ -8,6 +8,7 @@ High School of Telecommunications Arts and Technology
 **Bio**  
 I am a junior in high school, and 15 years old. My birthday is December 14 and i will be turing 16. I have a huge intrest for cars and Mechanical Engineering. My dream is too open up my own custom body auto shop.  
 
+
  **Schedule**  
 1. English  
 2. SEP (Software Engineering)  
